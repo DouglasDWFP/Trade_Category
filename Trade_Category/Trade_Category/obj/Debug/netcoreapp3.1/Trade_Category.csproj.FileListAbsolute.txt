@@ -1,0 +1,14 @@
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\bin\Debug\netcoreapp3.1\Trade_Category.exe
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\bin\Debug\netcoreapp3.1\Trade_Category.deps.json
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\bin\Debug\netcoreapp3.1\Trade_Category.runtimeconfig.json
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\bin\Debug\netcoreapp3.1\Trade_Category.runtimeconfig.dev.json
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\bin\Debug\netcoreapp3.1\Trade_Category.dll
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\bin\Debug\netcoreapp3.1\Trade_Category.pdb
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.csproj.AssemblyReference.cache
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.AssemblyInfoInputs.cache
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.AssemblyInfo.cs
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.csproj.CoreCompileInputs.cache
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.dll
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.pdb
+C:\Users\dnfi\source\repos\Trade_Category\Trade_Category\obj\Debug\netcoreapp3.1\Trade_Category.genruntimeconfig.cache
